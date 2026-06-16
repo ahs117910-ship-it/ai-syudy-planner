@@ -1,5 +1,5 @@
 // API Base URL
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = 'https://ai-syudy-planner.onrender.comhttps://ai-syudy-planner.onrender.com';
 
 // --- Local Storage Helpers ---
 function saveScheduleLocal(schedule) {
